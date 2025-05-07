@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Compose Demo</string>
+    <string name="setting">Setting</string>
+    <string name="other">Other</string>
+    <string name="offer">Origin infotech Services</string>
+
+    <string name="text_demo">Origin Infotech is the leading provider of cutting-edge tech solutions for the future. Our experienced team provides customized IT solutions tailored to the specific needs of our clients.</string>
+</resources>
